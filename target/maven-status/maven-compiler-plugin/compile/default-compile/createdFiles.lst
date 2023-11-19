@@ -1,0 +1,9 @@
+de\moneysplitter\springboot\currency\CalculationResult.class
+de\moneysplitter\springboot\config\CorsConfig.class
+de\moneysplitter\springboot\currency\DenominationDifference.class
+de\moneysplitter\springboot\service\CalculationService.class
+de\moneysplitter\springboot\currency\CalculationResponse.class
+de\moneysplitter\springboot\controller\CalculationController.class
+de\moneysplitter\springboot\currency\CalculationRequest.class
+de\moneysplitter\springboot\MoneySplitterBackendApplication.class
+de\moneysplitter\springboot\currency\DenominationResult.class
